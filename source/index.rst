@@ -19,10 +19,11 @@ Contents
     * Magic
     * The Matrix
 
-* :doc:`/General/Metarules`
 * Core Rules
 
-    * Build Points
+    * :doc:`Core/Metarules`
+    * :doc:`Core/Dice`
+    * :doc:`Core/Build Points`
     * Edge
     * Initiative
     * Condition Monitors
@@ -32,6 +33,7 @@ Contents
 
 * Character Statistics
 
+    * Races and Subraces
     * Traits
     * Attributes
     * Skills
