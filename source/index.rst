@@ -19,7 +19,7 @@ Contents
     * Magic
     * The Matrix
 
-* :doc:`Metarules <\General\Metarules>`
+* :doc:`\General\Metarules`
 * Core Rules
 
     * Build Points
