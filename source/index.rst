@@ -29,11 +29,11 @@ Contents
     * :doc:`Core/Injury and Healing`
     * :doc:`Core/Movement`
     * :doc:`Core/Senses`
-    * Tables
+    * :doc:`Core/Tables`
 
 * Character Statistics
 
-    * Races and Subraces
+    * :doc:`Races and Subraces <Stats/Race Index>`
     * Traits
     * Attributes
     * Skills
