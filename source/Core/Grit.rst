@@ -5,6 +5,7 @@ Grit is a measurement of that special something that puts a moonwalker above str
 Using Grit
 ----------
 When you use a point of grit, you have spent that point of grit, and it is removed from your pool of grit points. You may only spend one point of grit on a single test, and you may not use any grit on any test that already includes your grit attribute. Using grit can have one of the following effects:
+
 * Push the Limit: You add your grit rating (rating, not points) to the dicepool, the test no longer has a Limit (meaning you can keep as many hits as you roll) and it applies the Rule of Six.
 * Second Chance: You reroll all dice in your dicepool for the test that did not result in a hit.
 * Seize the Initiative: You are treated as if your stat sum for initiative is the highest for the initiative pass which you use this option at the start of. If multiple people Seize the Initiative in the same initiative pass, use EAIC (compare grit, Agility, and Intuition in that order, and if they are all the same, use a coin flip) to determine who goes first.
@@ -15,5 +16,6 @@ When you use a point of grit, you have spent that point of grit, and it is remov
 Burning Grit
 ------------
 When a character burns grit, their grit rating is permanently reduced by one. Their grit can be purchased back up as usual using BP. Only one point of grit may be burnt per job. A character can burn grit in of two ways:
+
 * Smackdown: The character may burn grit to not roll dice at all for a given action: they simply succeed. If net hits are important, they succeed with four net hits. This option can only be used for actions.
 * Not Dead Yet: When a character is about to die, they may burn a point of grit to remain not dead (yet). They still remain with all their overflow boxes filled, but are stabilized - for now.

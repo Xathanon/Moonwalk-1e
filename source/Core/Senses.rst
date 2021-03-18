@@ -18,13 +18,16 @@ Modifiers:
 ----------
 Different senses are subject to different modifiers. Each modifier has a category; Light, Moderate, and Great, which correspond to -1, -3, and -6 penalties respectively when applicable. If multiple modifiers would be at the same category, the modifier is bumped up one level. If multiple modifiers would be at Great, the sense becomes imprecise if was precise, and unusable if it was imprecise.
 There is also a fourth level, Total. Total modifiers simply prevent the sense from being used, as if the character did not have it.
+
 A few notes on exceptional instances in the Sense Modifiers Table:
+
 * Olfactory sense may benefit from wind if it's blowing in the right direction; in such situations, the penalty becomes a bonus.
 * Noise and Background Count ignore the normal scale of penalties and are instead based on their ratings (see Noise and Background Counts for details)
 
 Spotting and Awareness:
 -----------------------
 A character has awareness of everything it can detect with any sense, unless that thing has successfully performed the Hide or Sneak actions. A character has spotted anything that its Standard Result for an Intuition + Perception [Mental] test would be sufficient to detect, as determined by the gamemaster. Spotting is occasionally referenced as knowing the location of a creature.
+
 In combat, a creature becomes aware of all creatures in combat, but does not gain any knowledge of their locations unless it can detect them with a sense. A creature that is not aware of any of its attackers has not yet entered combat and is Unaware (as the condition).
 
 Senses, the Matrix, and the Astral:
