@@ -38,11 +38,10 @@ Unusual Effects:
 ================
 In addition to the basic calculation for a dicepool, there are a few other concerns that are occasionally referenced in other rules.
 
+Modifiers:
+----------
+Whenever a modifier applies to test, that means that the modifier's number is added to or subtracted from the dicepool for the test before dice are rolled. If a modifier would reduce the dicepool to 0 dice, the player must either find a way to get more dice (normally edge) or forego the test, automatically failing or not having the option to take the action resulting in that test. Positive modifiers are often called bonuses, and negative ones are often called penalties.
+
 Trying Again:
 -------------
 Trying again is the joy of those who fail the first time. If what you are attempting is an opposed test, you may try again at your earliest convenience, assuming they haven't shot you back yet, at no penalty. However, for basic and extended tests, whenever you begin trying again within twice the amount of time it takes to make the test (or within two intervals for an extended test) you suffer a -2 penalty. This penalty is cumulative if you try within the same amount of time from the second attempt.
-
-Modifiers:
-----------
-Whenever a modifier applies to test, that means that the modifier's number is added to or subtracted from the dicepool for the test before dice are rolled. If a modifier would reduce the dicepool to 0 dice, the player must either find a way to get more dice (normally edge) or forego the test, automatically failing or not having the option to take the action resulting in that test. Positive modifiers are occasionally called bonuses, and negative ones are occasionally called penalties.
-
