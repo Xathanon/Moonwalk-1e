@@ -23,7 +23,7 @@ Human races, or humans, are a confusing category; they also include the "norm" o
   * :doc:`Humans/Dwarves/Goblins` (35)
   * :doc:`Humans/Dwarves/Gnomes` (55)
 
-* :doc:`Orcs <Humans/Orcs/Orc Lore>
+* :doc:`Orcs <Humans/Orcs/Orc Lore>`
 
   * :doc:`Humans/Orcs/Orcs` (50)
   * :doc:`Humans/Orcs/Oni` (40)
