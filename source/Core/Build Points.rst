@@ -12,7 +12,7 @@ Characters do not stay the same forever. They grow and change. This is represent
 Using BP:
 ---------
 Characters may use Build Points to purchase a variety of changes to their character.
-- Removal of negative qualities
-- Increasing attributes
-- Increasing skills
-- Purchasing positive qualities
+* Removal of negative qualities
+* Increasing attributes
+* Increasing skills
+* Purchasing positive qualities
