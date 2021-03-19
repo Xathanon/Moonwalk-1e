@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Moonwalk's documentation!
-====================================
+Welcome to Moonwalk 1e Documentation!
+=====================================
 
 .. toctree::
    :maxdepth: 2
@@ -18,6 +18,7 @@ Contents
     * Historical Basics
     * Magic
     * The Matrix
+    * What is a Moonwalker?
 
 * Core Rules
 
@@ -34,7 +35,7 @@ Contents
 * Character Statistics
 
     * :doc:`Races and Subraces <Stats/Race Index>`
-    * Traits
+    * :doc:`Traits <Stats/Trait Index>`
     * Attributes
     * Skills
     * Qualities
