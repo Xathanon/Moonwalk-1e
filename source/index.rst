@@ -28,7 +28,7 @@ Contents
     * :doc:`Core/Grit`
     * :doc:`Core/Initiative`
     * :doc:`Core/Injury and Healing`
-    * :doc:`Core/Movement`
+    * :doc:`Core/Derived Capabilities`
     * :doc:`Core/Senses`
     * :doc:`Core/Tables`
 
@@ -36,8 +36,8 @@ Contents
 
     * :doc:`Races and Subraces <Stats/Race Index>`
     * :doc:`Traits <Stats/Trait Index>`
-    * Attributes
-    * Skills
+    * :doc:`Stats/Attributes`
+    * :doc:`Skills <Stats/Skill Index>`
     * Qualities
     * Tables
 
