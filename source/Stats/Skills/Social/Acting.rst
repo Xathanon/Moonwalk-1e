@@ -12,7 +12,7 @@ Impersonation (Charisma):
 -------------------------
 Impersonation is a skill of acting in all senses, to make others think one is someone who one is not.
 
-* Specializations: AI, Dwarves, Elves, Free Spirits, Giants, Humans, Orcs, Shapeshifters, 
+* Specializations: AI, Dwarves, Elves, Free Spirits, Giants, Humans, Orcs, Shapeshifters
 
 Performance (Charisma):
 -----------------------
