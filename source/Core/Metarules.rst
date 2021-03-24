@@ -1,5 +1,5 @@
 Metarules
-=============
+=========
 Metarules are rules that apply to the reading and use of the rules themselves. These are important to understanding the intent of the rules, thus they are codified here so that the exact reading of the rules is exactly what is intended in their writing.
 
 Specific Overrides

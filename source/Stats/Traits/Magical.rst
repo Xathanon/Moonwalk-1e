@@ -19,6 +19,7 @@ Drakes are set apart from the rest of humanity by their ability to shift into a 
 Humans and whatnot are all normally physical forms, but having this trait means that you are an astral form with no physical body at the moment, simply a soul floating around in the astral world, astral sea, or beyond unto metaplanes. An Astral Essence can only be affected by effects in the astral world - astral spells cast in the astral and other astral forms. They may perform any physical action using their astral form - these are physical actions on the astral plane.
 
 A being with the Astral Essence trait uses the following conversion table to determine its effective physical attributes for physical actions on the astral:
+
 ========= =========
 Physical  Mental
 ========= =========

@@ -1,5 +1,5 @@
-Resolving Actions:
-==================
+Resolving Actions
+=================
 The central mechanic of a roleplaying game is the method of resolving actions that have a chance of failure. In Moonwalk, this is called a "test," and has the following steps:
 
 * Create a dicepool, a number of d6s, as designated by the action or your GM.

@@ -1,5 +1,5 @@
-Initiative:
-===========
+Initiative
+==========
 When things come to a head in combat or tense social situations, it becomes important to know who acts in what order and how fast. To this end, the system of Initiative exists. Initiative consists of two parts: a stat sum depending on the initiative type, and a pool of turns, also depending on the initiative type. Fundamentally, you add up two stats, put each participant in order from highest to lowest of that sum, then you begin the first initiative pass. In an initiative pass, in order, each participant takes a turn if they have at least one turn remaining in their pool, then subtracts one turn from their pool. This continues until all participants have taken one turn, at which point the initiative pass ends. An Action Phase consists of repeated initiative passes until all actors are out of turns.
 
 An Action Phase takes 6 seconds, and the maximum number of turns in any being's pool is universally five.

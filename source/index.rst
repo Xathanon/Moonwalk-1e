@@ -30,7 +30,7 @@ Contents
     * :doc:`Core/Injury and Healing`
     * :doc:`Core/Derived Capabilities`
     * :doc:`Core/Senses`
-    * :doc:`Core/Tables`
+    * :doc:`Core/Core Tables`
 
 * Character Statistics
 

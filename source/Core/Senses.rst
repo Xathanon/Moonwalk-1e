@@ -1,5 +1,5 @@
-Senses:
-=======
+Senses
+======
 It is necessary to perceive the world, and for an in-depth game with support for sneaking, perception and modes of it must be appropriately defined.
 
 All things perceive the world through any number of senses, if they perceive it at all. Most objects have no senses. Plants have one, arguably two senses.
