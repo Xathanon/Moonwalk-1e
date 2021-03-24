@@ -1,5 +1,5 @@
-Build Points:
-=============
+Build Points
+============
 Build points (BP) are the measure of a character's progression and power, used to create a character and after character creation to advance a character. A standard character starts out with <#> BP to spend on various things. Many, many effects, traits, and qualities can be purchased with BP. In fact, anything that you can gain access to, in one way or another, has a cost in BP. Anything you can buy with BP will list its cost in some way or another.
 Of note are the following special rules that regard BP:
 

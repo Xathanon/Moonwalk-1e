@@ -1,5 +1,5 @@
-Injury and Healing:
-===================
+Injury and Healing
+==================
 This is what happens when you get shot, hit with a data spike, or hit by a car. The world of Moonwalk is not safe, and you might be coming back here quite often to try and get patched up.
 
 Condition Monitors:

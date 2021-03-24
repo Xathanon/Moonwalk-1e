@@ -6,7 +6,7 @@ Social actions require a target, a prerequisite attitude of the target, and an o
 
 +---------------+-----------------------+
 | Social Skill  | Opposed Roll          |
-+---------------+-----------------------+
++===============+=======================+
 | Deception     | Logic + Intuition     |
 +---------------+-----------------------+
 | Diplomacy     | Charisma + Willpower  |
