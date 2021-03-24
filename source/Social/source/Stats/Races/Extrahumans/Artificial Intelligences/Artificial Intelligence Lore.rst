@@ -1,3 +1,0 @@
-On Artificial Intelligences:
-============================
-Placeholder
