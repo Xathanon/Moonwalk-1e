@@ -12,9 +12,9 @@ Diplomacy (Charisma):
 ---------------------
 Diplomacy is the art of preventing people from shooting at you, but also the skill used to generally smooth over relationships, preventing and undoing confrontations.
 
-* Specializations: Formal, Informal, Society, Romantic
+* Specializations: Street, Formal, Informal, Society
 
-Etiquette (Charisma):
+Etiquette (Intuition):
 ---------------------
 Etiquette is being able to interact normally with people, to be able to understand their expectations of your behavior and follow or not follow them as appropriate to your goals.
 

@@ -38,11 +38,13 @@ Contents
     * :doc:`Traits <Stats/Trait Index>`
     * :doc:`Stats/Attributes`
     * :doc:`Skills <Stats/Skill Index>`
-    * Qualities
+    * :doc:`Qualities <Stats/Quality Index>`
+    * Knowledge Skills
     * Tables
 
 * Equipment
 
+    * Gear Categories
     * Universal Gear
     * Minor Manufacturers
     * Ajax Arms
@@ -60,46 +62,40 @@ Contents
 
 * A Living World
 
-    * Lifestyle
-    * Substances and Addiction
+    * Rewards
+    * Lifestyle & Downtime
+    * Addiction
     * Crafting
-    * Knowledge Skills
+    * Factions and Reputation
     * Tables
 
 * Physical Rules
 
     * Key Terms
-    * Actions
+    * Physical Actions
     * Damage Types
     * Conditions
-    * Melee Terms
+    * Melee Combat
     * Melee Modifiers
-    * Ranged Terms
+    * Ranged Combat
     * Ranged Modifiers
     * Tables
   
 * Social Rules
 
     * Key Terms
-    * General Social Modifiers
-    * Etiquette
-    * Bargaining
-    * Diplomacy
-    * Deception
-    * Performance
-    * Impersonation
-    * Insight
-    * Intimidation
-    * Leadership
+    * :doc:`Social/Social Basics`
+    * :doc:`Social/Social Encounters`
+    * :doc:`Social/Social Modifiers`
+    * :doc:`Social/Social Actions`
     * Tables
 
 * Matrix Rules
 
     * Key Terms
     * Matrix Basics
-    * Icons
     * Matrix Security
-    * Actions
+    * Matrix Actions
     * Artificial Intelligence
     * Technomancers
     * Tables
@@ -108,6 +104,7 @@ Contents
 
     * Key Terms
     * The Astral World
+    * Astral Actions
     * Warp
     * Mages & Paradigms
     * Channelers & Powers

@@ -6,7 +6,7 @@ Deception (Charisma):
 ---------------------
 Deception is used for making others believe outright lies, with varying amount of evidence or just one's own word.
 
-* Specializations: Seduction, Bald-Faced, Half-Truths
+* Specializations: Street, Informal, Formal, Society
 
 Impersonation (Charisma):
 -------------------------
@@ -18,4 +18,4 @@ Performance (Charisma):
 -----------------------
 Performance is the skill of making distractions, gathering attention, and using that attention to emotionally manipulate others via the attracted attention.
 
-* Specializations: Instrumental, Oratory, Comedy, Dance, Distraction
+* Specializations: Street, Informal, Formal, Society
