@@ -53,5 +53,5 @@ Universal Templates:
 --------------------
 Universal Templates are additional templates that can be applied to human races and subraces. Their cost must be paid in addition to the cost of a proper race or subrace.
 
-* :doc:`Universal Templates/Shapeshifters/Shapeshifter Index` (40)
+* :doc:`Universal Templates/Shapeshifters` (40)
 * :doc:`Universal Templates/Drakes` (70)
