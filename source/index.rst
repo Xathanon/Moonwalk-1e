@@ -85,9 +85,9 @@ Contents
 
     * Key Terms
     * :doc:`Social/Social Basics`
-    * :doc:`Social/Social Encounters`
-    * :doc:`Social/Social Modifiers`
     * :doc:`Social/Social Actions`
+    * :doc:`Social/Social Modifiers`
+    * :doc:`Social/Social Encounters`
     * Tables
 
 * Matrix Rules
@@ -103,19 +103,15 @@ Contents
 * Magic Rules
 
     * Key Terms
-    * The Astral World
-    * Astral Actions
-    * Warp
-    * Mages & Paradigms
-    * Channelers & Powers
-    * Arcane Channelers
-    * Arts & Metamagics
-    * Links
-    * Abjuration
-    * Artifice
-    * Conjuration
-    * Sorcery
-    * Spirits
+    * :doc:`Astral/The Astral World`
+    * :doc:`Astral/Magical Vulnerabilities`
+    * :doc:`Astral/Astral Actions`
+    * :doc:`Astral/Mages`
+    * :doc:`Astral/Channelers`
+    * :doc:`Astral/Arcane Channelers`
+    * :doc:`Astral/Paradigms`
+    * :doc:`Astral/Blood and Sacrifice`
+    * :doc:`Astral/Ascension`
     * Tables
 
 * Chase Rules
