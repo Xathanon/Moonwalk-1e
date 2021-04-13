@@ -40,7 +40,7 @@ Artless Metamagics
 
 Astralnaut (Mage)
 -----------------
-This metamagical technique eases the mage's ability to remain astral and grants them ease of travel to the astral sea. They hours for which they may safely astrally project are increased by their Ascension degree, and may pass into the astral sea directly, without having to hunt down an Astral Shore, by making a Potency + Ascension degree (3) test. Success on this test immediately translates one's astral location to the Astral Sea.
+This metamagical technique eases the mage's ability to remain astral and grants them ease of travel to the astral sea. They hours for which they may safely astrally project are increased by their Ascension degree, and may pass into the astral sea directly, without having to hunt down an Astral Shore, by making a Potency + Translocation + Ascension degree (5) test. Success on this test immediately translates one's astral location to the Astral Sea.
 
 Chant (Mage)
 ------------

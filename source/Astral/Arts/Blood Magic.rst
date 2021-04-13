@@ -6,7 +6,7 @@ Essence Tap (Mage)
 ------------------
 While normal blood magic taps into the suffering of the target, an Essence Tap drains their soul out with their blood. Over the course of a minute, the user of this technique may make a Potency + Ascension degree [Astral] vs. Fortitude + Willpower test against an unwilling target, or no test against a willing target, to extract a piece of their soul. The target loses one point of essence, and the user gains one Soul Point.
 
-Soul Points are like BMP, but more powerful: they fade after one minute (in or out of combat) unless an activity has begun that utilizes them. Using a Soul Point can achieve any of the effects of BMP, as if using five BMP, or may replace all reagents for any activity that would require reagents. In addition, any use of Soul Points on a magical activity removes all limits involved.
+Soul Points are like BMP, but more powerful: they fade after one minute (in or out of combat) unless an activity has begun that utilizes them. Using a Soul Point can achieve any of the effects of BMP, as if using five BMP, or may replace all reagents for any activity that would require reagents. A Soul Point can also be used to replace the Sacrifice of any one phase of a ceremony (unless the Sacrifice is not destroyed in the ceremony) In addition, any use of Soul Points on a magical activity removes all limits involved.
 
 Blood Channel (Channeler)
 -------------------------
