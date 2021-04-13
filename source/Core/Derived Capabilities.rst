@@ -27,7 +27,7 @@ Swift Movement incurs the following effects:
 +---------------------------------+--------------+-------------------------------------------------------------------------------------------------------------------+
 | Swimming                        | 1            | Swimming is exclusively used for moving whilst submerged or at least floating on water or another liquid.         |
 +---------------------------------+--------------+-------------------------------------------------------------------------------------------------------------------+
-|Crawling                         | 1            | Crawling is only required when prone, and is the only movement type that can be used whilst prone.                |
+| Crawling                        | 1            | Crawling is only required when prone, and is the only movement type that can be used whilst prone.                |
 +---------------------------------+--------------+-------------------------------------------------------------------------------------------------------------------+
 
 +---------------------------------+--------------+-------------------------------------------------------------------------------------------------------------------+

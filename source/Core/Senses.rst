@@ -59,13 +59,14 @@ Barrier Type    Totalled                                   Affected
 Wall            Olfactory, Tactile, Taste, Thermal, Astral Sonar/Ultrasound, Auditory
 Sonic Generator Sonar/Ultrasound                           Auditory
 White Noise     Auditory                                   Sonar/Ultrasound
-Mana Barrier    Astral                                     N/A
+Astral Form     Astral                                     N/A
 =============== ========================================== ==========================
 
 Line of "Sight"
 ---------------
-Is not that simple. A line of sight using a sense means a straight line can be drawn between the source and the destination for at least one precise sense possessed by the source. Prefixing a specific sense's descriptor to the phrase implies the requisite that that line can be drawn with that particular sense (such as astral line of sight). Physical line of sight tends to refer to line of sight with all senses that are not Astral Sense. In sections referring to the Matrix, line of sight in the Matrix is line of sight determined as in the Matrix sense environment instead of in the physical one.
+Is not that simple. A line of sight using a sense means a straight line can be drawn between the source and the destination without any totalling barriers for at least one precise sense possessed by the source. Prefixing a specific sense's descriptor to the phrase implies the requisite that that line can be drawn with that particular sense (such as astral line of sight). Terrestrial line of sight refers to line of sight with all senses that are not Astral Sense. In sections referring to the Matrix, line of sight in the Matrix is the ability to draw a line from the actor to the target in the Matrix environment.
 
+Note that line of sight is not equivalent to line of effect.
 
 Spotting and Awareness:
 -----------------------
