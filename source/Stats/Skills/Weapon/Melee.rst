@@ -14,7 +14,6 @@ Clubs are bludgeoning tools to bash out peoples bones - or just to hit them unto
 
 * Specializations: Batons, Hammers, Saps, Staves, Improvised
 
-
 Flexible (Dexterity):
 =====================
 Flexible weapons, such as whips and garrotes, are a relatively recent addition to the art of destruction in the west, but in the East have been used for untold ages.

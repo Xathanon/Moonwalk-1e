@@ -37,7 +37,7 @@ A spirit with the Restless trait adds its force to tests it makes to resist bein
 Creatures with inherent astral armor are more difficult to damage than normal. They gain an extra amount of astral armor as specified, which stacks with any other sources of astral armor. All sources of inherent astral armor stack, but a creature can only benefit from an amount of inherent astral armor up to its Willpower.
 
 *[Awakened]*
-An entity that is Awakened always has either a Potency or Somatesthesia attribute, or it loses the Awakened tag. Awakened are not creatures that are merely astrally aware or have minor magic inherent to their being, but rather are creatures that can manipulate mana in advanced techniques, such as spirits, extrahuman magicians, and dragons. This tag may be detected by assensing.
+An entity that is Awakened always has either a Potency or Somatesthesia attribute, or it loses the Awakened tag. Awakened are not creatures that are merely astrally aware or have minor magic inherent to their being, but rather are creatures that can manipulate mana in advanced techniques, such as spirits, extrahuman magicians, and dragons. This tag may be detected by assensing. Awakened creatures always have a paradigm through which they utilize magic. See :doc:`source/Astral/Paradigms`.
 
 Negative Magical Traits:
 ------------------------

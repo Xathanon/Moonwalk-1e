@@ -41,3 +41,27 @@ Charisma is the measure of a character's natural ability to influence, motivate,
 Willpower (WIL):
 ----------------
 Willpower is the measure of mental strength; exertions of will tend to include resistance to torture and withstanding hostile magic, as well as contributing to the stun condition monitor.
+
+Special Attributes:
+===================
+Special attributes measure spiritual aspects of a character, things that are harder to quantify than smarts and strength.
+
+Grit (GRT):
+-----------
+Grit is a measure of luck and spirit, that fighting something that makes Moonwalkers stand out. See :doc:`source/Core/
+
+Potency (POT):
+--------------
+Potency is the ability to channel magical energy, known as mana. Only Mages and Arcane Channelers have a Potency attribute, as well as certain paranormal creatures.
+
+Somatesthesia (SOM):
+--------------------
+Somatesthesia is the ability to use mana to enhance and control one's own body and mind. Only Channelers and Arcane Channelers have a Somatesthesia attribute.
+
+Reverb (REV):
+-------------
+Reverb is that unique power of technomancers to manipulate the very essence of the Matrix, known as the Resonance, to their unequipped will. Only Technomancers and Resonant AI have a Reverb attribute.
+
+Depth (DEP):
+------------
+Depth is a measure of an AI's sophistication, redundancy, and structure; it determines their capacity to use those abilities which are unique to artificial intelligences. Only AI (Resonant or otherwise) have a Depth attribute.

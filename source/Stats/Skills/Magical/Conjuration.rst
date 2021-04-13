@@ -1,18 +1,18 @@
 Conjuration Skills (Magical):
 =============================
-Conjuration skills are those used to call forth spirits into one's service and keep them in your service. Different mages have different approaches to summoning, binding, and branding, normally heavily impacted by their paradigm.
+Conjuration skills are those used to call forth spirits and astral constructs into one's service and keep them in your service. Different mages have different approaches to conjuration, normally heavily impacted by their paradigm.
 
 Binding (Potency):
 ------------------
-Binding is the skill of forcing spirits into long-term service. Often mastered by mages who don't care about ethics, it brings with it an astral stain that can make summoning more difficult.
+Binding is the skill of anchoring spirits to your essence, granting them a longer stay on this world and forcing them to your service. This is often, but not always, accompanied by an offering to avoid Astral Stain.
 
 * Specializations: Fire, Water, Air, Earth, Beast, Humanity, Plant, Task, Guidance, Guardian
 
-Branding (Potency):
+Creation (Potency):
 -------------------
-Branding is the art of linking onesself with a spirit in a mutually agreeable manner, but taps the spirit directly to the mage's life energy, making it a risky ploy.
+Creation is the skill of forging mana in the astral world into astral forms, willing them into existence to serve as tools in the ether.
 
-* Specializations: Fire, Water, Air, Earth, Beast, Humanity, Plant, Task, Guidance, Guardian
+* Specializations: Armor, Objects, Weapons
 
 Summoning (Potency):
 --------------------

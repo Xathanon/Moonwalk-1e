@@ -20,7 +20,7 @@ Characters with a Sense are able to perceive the world through an additional len
 +------------------+--------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 | Sense            | Precise Range Band | Imprecise Range Band | Description                                                                                                                                       |
 +==================+====================+======================+===================================================================================================================================================+
-| Visual           | 1km                | 10m                  | Vision relies on light waves/particles reflected off of surfaces to give information about 'color' and 'texture.'                                 |
+| Visual           | 1km                | 10km                 | Vision relies on light waves/particles reflected off of surfaces to give information about 'color' and 'texture.'                                 |
 +------------------+--------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
 | Auditory         | 20m                | 4m                   | Hearing relies on a specific spectrum of airwave vibrations known as the 'audible spectrum' to determine location and movement.                   |
 +------------------+--------------------+----------------------+---------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -78,7 +78,7 @@ A creature with this trait has a natural venom that it excretes onto a specific 
 
 *[Natural Weapon (X, Y, Z)]*
 
-A creature with a Natural Weapon is capable of dealing deadly damage using only the armaments bestowed on it by nature. Natural weapons are melee weapons that always count as being wielded with a base damage of X, AP equal to Y, and reach equal to Z.
+A creature with a Natural Weapon is capable of dealing deadly damage using only the armaments bestowed on it by nature. Natural weapons are melee weapons that always count as being wielded with a base damage of X, AP equal to Y, and reach equal to Z. Natural weapons deal Physical damage unless otherwise specified.
 
 *[Liquiform]*
 
