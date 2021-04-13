@@ -10,13 +10,13 @@ Mages are defined by their ability to use magical skills, which is unique to the
 
 The exact effects of each skill is listed here:
 
-* Abjuration
-* Binding
-* Brewing
-* Creation
-* Enchantment
-* Evocation
-* Invocation
-* Runesmithing
-* Summoning
-* Wyrding
+* :doc:`Abjuration`
+* :doc:`Conjuring/Binding`
+* :doc:`Artifice/Brewing`
+* :doc:`Conjuring/Creation`
+* :doc:`Artifice/Enchantment`
+* :doc:`Sorcery/Evocation`
+* :doc:`Sorcery/Invocation`
+* :doc:`Artifice/Runesmithing`
+* :doc:`Conjuring/Summoning`
+* :doc:`Sorcery/Wyrding`
