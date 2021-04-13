@@ -18,4 +18,10 @@ Expose:
 -------
 Required Attitude: Neutral or Higher, or No Target
 
-When a character has attempted a Deception action against the actor and has either failed or the deception has been discovered, they may use this action to reveal the deception to another character, in which case the character's Attitude towards the character is reduced by one. This action can be done with no target, in which case it increases the deceiver's Awkwardness by three.
+When a character has attempted a Deception or Impersonation action against the actor and has either failed or the deception has been discovered, they may use this action to reveal the deception to another character, in which case the character's Attitude towards the character is reduced by one. This action can be done with no target, in which case it increases the deceiver's Awkwardness by three.
+
+Saving Face:
+------------
+Required Attitude: Neutral or Higher
+
+When a character affiliated with the actor fails a social action, this Complex Interrupt may be used on the same target (or lack thereof) as the failed action. If it is successful, any negative impact on Attitude or increase of Awkwardness from the action is negated.
