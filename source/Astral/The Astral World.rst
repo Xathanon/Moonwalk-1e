@@ -190,21 +190,21 @@ Mana storms are almost universally accompanied by some form of unnatural weather
 
 Mana storms may be stationary or mobile, traveling at a speed up to their rating in kmph, but either way are only temporary - a mana storm's rating decreases by one per day from its inception. They may come out of anywhere, though.
 
-Mana Surge Table
-+------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
-| Roll (2d6) | Effect                                                                                                                                           |
-+============+==================================================================================================================================================+
-| 2          | Any Warp from the effect becomes physical if it was stun. Effects and actions that do not normally inflict Warp cause 6S Warp resisted normally. |
-+------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
-| 3-4        | Any reagents on the actor's person arch with magical energy: they must resist stun Warp equal to twice the number of reagents on their person    |
-+------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
-| 5-6        | 1d6 reagents on the actor's person cease to be reagents                                                                                          |
-+------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
-| 7-9        | No effect                                                                                                                                        |
-+------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
-| 10-11      | 1d6 nearby objects of the GM's choice become reagents                                                                                            |
-+------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
-| 12         | Witch's Mark*                                                                                                                                    |
-+------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| Mana Surge (2d6) | Effect                                                                                                                                           |
++==================+==================================================================================================================================================+
+| 2                | Any Warp from the effect becomes physical if it was stun. Effects and actions that do not normally inflict Warp cause 6S Warp resisted normally. |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| 3-4              | Any reagents on the actor's person arch with magical energy: they must resist stun Warp equal to twice the number of reagents on their person    |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| 5-6              | 1d6 reagents on the actor's person cease to be reagents                                                                                          |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| 7-9              | No effect                                                                                                                                        |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| 10-11            | 1d6 nearby objects of the GM's choice become reagents                                                                                            |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
+| 12               | Witch's Mark*                                                                                                                                    |
++------------------+--------------------------------------------------------------------------------------------------------------------------------------------------+
 
 *Witch's Mark is the result that invites the GM to be creative. The magical effect ceases to be effective (a spell has no effect, a channeler power does not grant any bonus or do anything) and a totally bizarre mishap occurs. Frogs may rain from the sky, nearby water may catch fire with purple flames, or a small portal to the astral world may dump a Fey on the unfortunate Awakened. Caveat Emptor for those who use magic during a mana storm.
